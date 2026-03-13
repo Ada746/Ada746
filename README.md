@@ -1,6 +1,6 @@
 ## Ada
 
-# Engineering My Foundation
+# About me
 
 I am a Computer Science student focused on building a disciplined and 
 structured foundation in software development.
