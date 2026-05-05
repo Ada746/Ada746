@@ -18,8 +18,11 @@ This GitHub documents my growth — from fundamentals to more complex systems.
 
 Languages:
 - C++
-- Python
+- Java
 - HTML
+- PHP
+- JavaScript
+- CSS
 
 Databases:
 - MySQL (basic queries, schema design)
